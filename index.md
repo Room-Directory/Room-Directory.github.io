@@ -8,6 +8,8 @@
 
 ## Overview
 
+The goal of this project is to create user friendly interface for office space management of the ICS department. 
+
 ## User Guide
 
 ## Team
