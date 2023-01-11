@@ -8,7 +8,7 @@
 
 ## Overview
 
-The goal of this project is to create user friendly interface for office space management of the ICS department. 
+The goal of this project is to create user friendly interface for office space management of the ICS department. Our product will service students (undergrad and graduate), TAs, RAs, faculty, support teams, and all other roles in the ICS community.
 
 ## User Guide
 
