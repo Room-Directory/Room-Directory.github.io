@@ -14,7 +14,7 @@ The goal of this project is to create user friendly interface for office space m
 
 ## Team
 
-No More Ramen is designed, implemented, and maintained by a team consisting of nine members: 
+Room Directory is designed, implemented, and maintained by a team consisting of nine members: 
 * Rex Lactaoen
 * Cameron Sumida 
 * Michelle Leano
