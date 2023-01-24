@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Mockup Pages](#mockup-pages)
+* [Example Workflow](#example-workflow)
 * [Team](#team)
 
 ## Overview
@@ -46,7 +47,8 @@ The goal of this project is to create user friendly interface for office space m
 #### Student Request For Room Page Mockup
 ![image](https://user-images.githubusercontent.com/97726557/214188988-43459f46-af7c-45c6-91e2-65dde2df0fd3.png)
 
-#### Example Workflow for Admin User
+## Example Workflow
+#### For Admin User:
 ![image](https://user-images.githubusercontent.com/97726557/214191621-09125dd3-acc3-46d7-a33b-829635173340.png)
 
 ## Team
