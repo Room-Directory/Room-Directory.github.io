@@ -15,10 +15,10 @@ The goal of this project is to create user friendly interface for office space m
 
 ## Mockup Pages
 Landing Page Mockup
-https://cdn.discordapp.com/attachments/1064639228056711178/1064651455530807339/IMG_0154.png
+![Landing Page Mockup](https://cdn.discordapp.com/attachments/1064639228056711178/1064651455530807339/IMG_0154.png)
 
 Room Reservation Page Mockup
-https://cdn.discordapp.com/attachments/1064639228056711178/1065045450585018499/Screen_Shot_2023-01-17_at_1.09.50_PM.png
+![Room Reservation Page Mockup](https://cdn.discordapp.com/attachments/1064639228056711178/1065045450585018499/Screen_Shot_2023-01-17_at_1.09.50_PM.png)
 
 ## Team
 
