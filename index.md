@@ -64,6 +64,4 @@ Room Directory is designed, implemented, and maintained by a team consisting of 
 * Trey Yasunaga
 * Cameron Arakaki
 
-[![ci-room-directory](https://github.com/room-directory/room-directory/actions/workflows/ci.yml/badge.svg)](https://github.com/room-directory/room-directory/actions/workflows/ci.yml)
-
 All member have signed a [team contract](https://docs.google.com/document/d/1eKRh4N_Ak8qnQbBEGrxAVlJxxvsMIjg8wWbFX2ZBQhc/edit?usp=sharing)
