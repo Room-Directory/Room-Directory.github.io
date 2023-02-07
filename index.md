@@ -51,6 +51,12 @@ The goal of this project is to create user friendly interface for office space m
 #### For Admin User:
 ![image](https://user-images.githubusercontent.com/97726557/214191621-09125dd3-acc3-46d7-a33b-829635173340.png)
 
+#### For requesting room reservations:
+<img src="images/roomRequests.png" class="img-fluid" width=600>
+
+## Collections
+<img src="images/collections.png" class="img-fluid" width=600>
+
 ## Team
 
 Room Directory is designed, implemented, and maintained by a team consisting of nine members: 
