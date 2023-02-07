@@ -52,10 +52,10 @@ The goal of this project is to create user friendly interface for office space m
 ![image](https://user-images.githubusercontent.com/97726557/214191621-09125dd3-acc3-46d7-a33b-829635173340.png)
 
 #### For requesting room reservations:
-<img src="images/roomRequests.PNG" class="img-fluid" width=600>
+<img src="images/roomRequests.PNG" class="img-fluid">
 
 ## Collections
-<img src="images/collections.PNG" class="img-fluid" width=600>
+<img src="images/collections.PNG" class="img-fluid">
 
 ## Team
 
