@@ -22,6 +22,13 @@ The goal of this project is to create user friendly interface for office space m
 ![image](https://user-images.githubusercontent.com/97726557/214188266-4fac64d6-5f20-4c38-bcb0-47a1710e639f.png)
 ![image](https://user-images.githubusercontent.com/97726557/214189089-fa5c66b4-8f1e-4270-aad6-809c7d20c018.png)
 ![image](https://user-images.githubusercontent.com/97726557/214189120-b1654b20-06d4-49af-9828-96d7b31a49e0.png)
+![image](https://user-images.githubusercontent.com/97726557/217408605-413d6a85-98e1-478c-8ad8-66036720e412.png)
+
+#### Room Reservation Calendar Display Mockup
+![image](https://user-images.githubusercontent.com/97726557/217408354-99256a8d-4584-46ab-95d0-7f2c0b2be8ee.png)
+
+#### Room Reservation Form Mockup
+![image](https://user-images.githubusercontent.com/97726557/217408564-dfbffd0e-0e5c-401a-ba64-b06be69d7f4b.png)
 
 #### Request Page for Admin Page Mockup
 ![image](https://user-images.githubusercontent.com/97726557/214188350-61cf0718-c6ba-47f1-b4e6-9147afbdb452.png)
@@ -46,6 +53,9 @@ The goal of this project is to create user friendly interface for office space m
 
 #### Student Request For Room Page Mockup
 ![image](https://user-images.githubusercontent.com/97726557/214188988-43459f46-af7c-45c6-91e2-65dde2df0fd3.png)
+
+#### Register Page Mockup
+![image](https://user-images.githubusercontent.com/97726557/217408438-ff9bb22a-6f9f-49e2-94ff-2e58b942f2ff.png)
 
 ## Example Workflow
 #### For Admin User:
