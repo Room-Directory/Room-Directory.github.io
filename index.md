@@ -22,11 +22,11 @@ The goal of this project is to create user friendly interface for office space m
 ![image](https://user-images.githubusercontent.com/97726557/214188266-4fac64d6-5f20-4c38-bcb0-47a1710e639f.png)
 ![image](https://user-images.githubusercontent.com/97726557/214189089-fa5c66b4-8f1e-4270-aad6-809c7d20c018.png)
 ![image](https://user-images.githubusercontent.com/97726557/214189120-b1654b20-06d4-49af-9828-96d7b31a49e0.png)
-
-#### Room Reservation Calendar Display Mockup
+![image](https://user-images.githubusercontent.com/97726557/217413087-2b8f4c60-4d2f-4065-ba33-82ec4cfb1111.png)
+![image](https://user-images.githubusercontent.com/97726557/217413142-75c6f625-779c-421c-a5e4-2cdcb80e990b.png)
+##### Room Reservation Calendar Display Mockup
 ![image](https://user-images.githubusercontent.com/97726557/217408354-99256a8d-4584-46ab-95d0-7f2c0b2be8ee.png)
-
-#### Room Reservation Form Mockup
+##### Room Reservation Form Mockup
 ![image](https://user-images.githubusercontent.com/97726557/217411126-80f1ba64-4ea2-43c8-80b9-bdb520518491.png)
 
 #### Request Page for Admin Page Mockup
