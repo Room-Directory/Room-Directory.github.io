@@ -4,8 +4,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Mockup Pages](#mockup-pages)
-* [Example Workflow](#example-workflow)
+* [Collections](#collections)
 * [Team](#team)
 
 ## Overview
@@ -14,7 +13,6 @@ The goal of this project is to create user friendly interface for office space m
 
 ## User Guide
 
-## Mockup Pages
 ### Landing Page
 
 The landing page is presented to all users when they visit the top-level URL to the site.
